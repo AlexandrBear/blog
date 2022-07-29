@@ -1,4 +1,4 @@
-# blog
+## blog
 #### Скачать зависимости pip -r requirements.txt
 #### Создать миграции python manage.py makemigrations
 #### Применить миграции python manage.py migrate
